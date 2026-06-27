@@ -1,0 +1,7 @@
+ hii
+ welcome
+ here we are learn about git
+ git log --oneline -5
+ git push origin main
+ git pull origin main
+
