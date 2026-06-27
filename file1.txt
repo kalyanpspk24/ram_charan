@@ -1,4 +1,0 @@
-hi
-good morning 
-today we are discussing about git merge and git rebase
-
